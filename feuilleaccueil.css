@@ -1,0 +1,22 @@
+body
+{
+	background-color : rgb(200,200,200);
+	font-family : cursive;
+}
+
+h1
+{
+	text-align : center;
+	text-decoration: underline;
+}
+
+h2
+{
+	text-decoration: underline;
+	color : rgb(0,0,120);
+}
+
+a
+{
+	color : rgb(255,0,0);
+}
